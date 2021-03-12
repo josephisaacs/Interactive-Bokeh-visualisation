@@ -1,0 +1,3 @@
+This work was originally submitted in November 2020, as my contribution to a group project for DATA1902 at the University of Sydney. This work was originally submitted in November 2020, as my contribution to a group project for DATA1902 at the University of Sydney. The project required us to use the Bokeh library to produce an interactive visualisation based on a data set we had previously obtained from https://datasets.seed.nsw.gov.au/dataset/nsw-estuary-temperature-ph-and-salinity-data
+
+project4_ADV_W15A_Group_4.html contains the visualisation, which allows users to relate information about different estuary sites to a map of their locations in NSW. Interactive_visualisation.ipynb contains the Python code used to produce the visualisation.
